@@ -1,7 +1,7 @@
 {
   "hero": {
-    "hello": "Hi, I'm Guillaume",
-    "dev": "Full Stack Web Developer"
+    "hello": "Hi, I'm TajAlasfiyaa",
+    "dev": "FrontEnd Web Developer"
   },
   "titles": {
     "home": "Home",
@@ -51,7 +51,7 @@
     "back": "Back."
   },
   "footer": {
-    "dev": "Full Stack Web Developer",
+    "dev": "FrontEnd Web Developer",
     "links": "Links",
     "legal": "Legal",
     "madewith": "Made with",
