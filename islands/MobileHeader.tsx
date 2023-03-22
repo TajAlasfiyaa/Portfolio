@@ -20,7 +20,7 @@ export default function MobileHeader(props: Omit<HeaderProps, "sticky">) {
                 alt="avatar"
               />
               <a href="/" class="hover:(text-gray-900 dark:text-gray-100)">
-                Guillaume Comte
+              TajAlasfiyaa
               </a>
             </div>
           )}

@@ -83,10 +83,10 @@ export default function Home(props: PageProps<Data>) {
   return (
     <>
       <Head>
-        <title>Guillaume Comte - Full Stack Web Developer</title>
+        <title>TajAlasfiyaa - FrontEnd Web Developer</title>
         <meta
           name="description"
-          content="Guillaume Comte - Full Stack Web Developer - Portfolio"
+          content="TajAlasfiyaa - FrontEnd Web Developer - Portfolio"
         />
       </Head>
       <Header active="/" left={LINKS} lang={props.data.lang} />

@@ -30,7 +30,7 @@ function LargeHeader(props: Omit<HeaderProps, "sticky">) {
                 href="/"
                 class="hover:(text-transparent dark:(from-cyan-400 to-teal-400)) bg-gradient-to-r from-cyan-500 to-teal-500 bg-clip-text"
               >
-                Guillaume Comte
+               TajAlasfiyaa
               </a>
             </div>
           </li>

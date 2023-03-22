@@ -59,7 +59,7 @@ export default function Footer() {
               class="text-2xl font-bold text-gray-700 dark:text-gray-300"
               href="/"
             >
-              Guillaume Comte
+              TajAlasfiyaa
             </a>
           </div>
           <div class="text-gray-600 dark:text-gray-400">{t.footer.dev}</div>
@@ -99,7 +99,7 @@ export default function Footer() {
 
         <div class="space-y-2 text-gray-600 dark:text-gray-400 md:text-right">
           <div class="text-sm">
-            Copyright © {new Date().getFullYear()} Guillaume Comte
+            Copyright © {new Date().getFullYear()} TajAlasfiyaa
             <br />
             {t.footer.rights}
           </div>

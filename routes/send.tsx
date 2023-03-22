@@ -57,10 +57,10 @@ export default function Blog(props: PageProps<Data>) {
   return (
     <>
       <Head>
-        <title>Guillaume Comte - Full Stack Web Developer</title>
+        <title>TajAlasfiyaa - Full Stack Web Developer</title>
         <meta
           name="description"
-          content="Guillaume Comte - Full Stack Web Developer - Portfolio"
+          content="TajAlasfiyaa - Full Stack Web Developer - Portfolio"
         />
       </Head>
       <Header active="/send" lang={props.data.lang} />

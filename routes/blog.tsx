@@ -29,7 +29,7 @@ export default function Blog(props: PageProps<Data>) {
         <title>Guillaume's Blog</title>
         <meta
           name="description"
-          content="Guillaume Comte - Full Stack Web Developer - Blog"
+          content="TajAlasfiyaa - Full Stack Web Developer - Blog"
         />
       </Head>
       <Header active="/blog" lang={props.data.lang} />

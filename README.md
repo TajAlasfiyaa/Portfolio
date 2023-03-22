@@ -1,7 +1,7 @@
-# Guillaume Comte
+# TajAlasfiyaa
 
 ## Full Stack Web Developer
 
-https://guillaumecomte.deno.dev
+https://Taj.deno.dev
 
 Personal website made with [Fresh](https://fresh.deno.dev)
