@@ -1,7 +1,8 @@
 repo_name: TajAlasfiyaa/Portfolio
 report_id: 1f27f6c84219f3f42b6f9ee5caefcadc
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-10T09:26:00+00:00'
+timestamp: '2024-01-05T08:26:29+00:00'
 requested_by: TajAlasfiyaa
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/TajAlasfiyaa/Portfolio
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/Portfolio
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TajAlasfiyaa/Portfolio
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -43,6 +47,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/TajAlasfiyaa/Portfolio/blob/main/.github/workflows/deno.yml
   detection_source: ".github/workflows/deno.yml"
   last_updated_by: TajAlasfiyaa Ishag
   last_updated_on: 2023-02-17 16:47:01.000000000 Z
